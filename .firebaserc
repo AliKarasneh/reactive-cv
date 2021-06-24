@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "rx-resume"
+  },
+  "targets": {
+    "rx-resume": {
+      "hosting": {
+        "rxresume": [
+          "public"
+        ]
+      }
+    }
+  }
+}
